@@ -1,0 +1,11 @@
+C:\Users\naniy\source\repos\FigureAreaCalculator\CalculationArea\bin\Debug\net6.0\CalculationAreaLib.deps.json
+C:\Users\naniy\source\repos\FigureAreaCalculator\CalculationArea\bin\Debug\net6.0\CalculationAreaLib.dll
+C:\Users\naniy\source\repos\FigureAreaCalculator\CalculationArea\bin\Debug\net6.0\CalculationAreaLib.pdb
+C:\Users\naniy\source\repos\FigureAreaCalculator\CalculationArea\obj\Debug\net6.0\CalculationAreaLib.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\naniy\source\repos\FigureAreaCalculator\CalculationArea\obj\Debug\net6.0\CalculationAreaLib.AssemblyInfoInputs.cache
+C:\Users\naniy\source\repos\FigureAreaCalculator\CalculationArea\obj\Debug\net6.0\CalculationAreaLib.AssemblyInfo.cs
+C:\Users\naniy\source\repos\FigureAreaCalculator\CalculationArea\obj\Debug\net6.0\CalculationAreaLib.csproj.CoreCompileInputs.cache
+C:\Users\naniy\source\repos\FigureAreaCalculator\CalculationArea\obj\Debug\net6.0\CalculationAreaLib.dll
+C:\Users\naniy\source\repos\FigureAreaCalculator\CalculationArea\obj\Debug\net6.0\refint\CalculationAreaLib.dll
+C:\Users\naniy\source\repos\FigureAreaCalculator\CalculationArea\obj\Debug\net6.0\CalculationAreaLib.pdb
+C:\Users\naniy\source\repos\FigureAreaCalculator\CalculationArea\obj\Debug\net6.0\ref\CalculationAreaLib.dll

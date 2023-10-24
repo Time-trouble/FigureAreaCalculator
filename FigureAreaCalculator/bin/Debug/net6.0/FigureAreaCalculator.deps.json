@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "FigureAreaCalculator/1.0.0": {
+        "dependencies": {
+          "CalculationAreaLib": "1.0.0"
+        },
+        "runtime": {
+          "FigureAreaCalculator.dll": {}
+        }
+      },
+      "CalculationAreaLib/1.0.0": {
+        "runtime": {
+          "CalculationAreaLib.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "FigureAreaCalculator/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "CalculationAreaLib/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
